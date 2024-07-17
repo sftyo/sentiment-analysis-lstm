@@ -1,0 +1,1 @@
+Sentiment Analysis is a project to determine whether the given sentence has a positive or negative sentiment. This project used the IMDB dataset to determine whether the review has a positive or negative sentiment using an LSTM model.
